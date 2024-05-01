@@ -11,9 +11,7 @@ LPU allows to provide a faster response for the usrs' questions.
 
 
 # Intalation
-```console
-$ pip install clichatapp
-```
+
 # Usage:
 Run
 ```console
