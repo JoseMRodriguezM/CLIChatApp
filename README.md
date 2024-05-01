@@ -13,9 +13,9 @@ LPU allows to provide a faster response for the usrs' questions.
 # Intalation
 ```console
 $ pip install -r .\requirements.txt
-
-And the place your Groq api key
 ```
+And the place your Groq api key
+
 # Usage:
 Run
 ```console
