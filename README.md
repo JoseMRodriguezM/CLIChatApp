@@ -11,10 +11,14 @@ LPU allows to provide a faster response for the usrs' questions.
 
 
 # Intalation
+```console
+$ pip install -r .\requirements.txt
 
+And the place your Groq api key
+```
 # Usage:
 Run
 ```console
-$ chat
+$ python .\clichatapp\main.py
 ```
 + The if you want to exit from the app just write /exit or /bye 
