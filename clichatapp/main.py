@@ -11,7 +11,7 @@ console = Console()
 app = typer.Typer()
 
 dotenv.load_dotenv()
-client = Groq(api_key="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")
+client = Groq(api_key="your_groq_api_key")
 
 
 def execute(prompt):
