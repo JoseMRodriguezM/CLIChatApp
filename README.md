@@ -23,4 +23,4 @@ Run
 ```console
 $ python .\clichatapp\main.py
 ```
-+ The if you want to exit from the app just write /exit or /bye 
++ Then if you want to exit from the app just write /exit or /bye 
