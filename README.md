@@ -1,7 +1,7 @@
 # Description
 
-This chatbot is made with groq, Groq use LPU Interfaces Engine, which is a new type of end-to-end processing unit system that provides the fastest inference for computationally intesive applications with a sequential component to them, such as IA LLMs applications.
-LPU allows to provide a faster response for the usrs' questions.
+This chatbot is made with Groq, Groq use LPU Interfaces Engine, which is a new type of end-to-end processing unit system that provides the fastest inference for computationally intesive applications with a sequential component to them, such as IA LLMs applications.
+LPU allows to provide a faster response for the users' questions.
 
 # Show case
 ![image](https://github.com/JoseMRodriguezM/CLIChatt/assets/76118394/4d3cd9a8-9cdb-4f52-b792-3d3afed15a94)
