@@ -13,9 +13,11 @@ LPU allows to provide a faster response for the usrs' questions.
 # Intalation
 ```console
 $ pip install -r .\requirements.txt
+$ cd clichatapp
 $ touch .env
 ```
 In the .env file plase GROQ_API_KEY= and place your personal api key.
+
 # Usage:
 Run
 ```console
